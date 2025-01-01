@@ -36,7 +36,7 @@ function Header() {
                 <button className='flex w-full items-center gap-4 bg-primary-blue h-20 pl-10'>
                     <Image src={iconUser} alt="icon User" />
                     
-                    <span className='text-write'>Acessar Conta</span>
+                    <span className='text-white font-bold'>Acessar Conta</span>
                 </button>
                 </div>
             </div>
