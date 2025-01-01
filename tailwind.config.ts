@@ -9,6 +9,9 @@ const config: Config = {
     ],
     theme: {
         extend: {
+            backgroundImage: {
+                'img_bg_hero': 'url("../assets/bg-hero.jpg")'
+            },
             colors: {
                 'primary-blue': '#106EB0',
                 'primary-orange': '#EC7000',
